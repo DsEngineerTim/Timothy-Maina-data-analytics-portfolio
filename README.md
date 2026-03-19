@@ -25,17 +25,7 @@ Turning data into actionable business insights
 
 ---
 
-## 🧰 Languages & Tools
-<p align="left">
-
-<!-- Skills / Tech Stack Icons -->
-### 🛠 My Toolkit
-
-### 🛠 My Toolkit
-
-### 🛠 My Toolkit
-
-### 🛠 My Toolkit
+## 🧰 My Tool kit...
 
 <p align="left">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
