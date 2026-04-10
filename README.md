@@ -1,56 +1,93 @@
-<h1 align="center">Hi 👋 there, I'm Timothy Maina</h1>
+<h1 align="center">Hi, I'm Timothy Maina</h1>
 
-<h3 align="center">
-Data Analyst | Finance & Forecasting Enthusiast  
-Turning data into actionable business insights
-</h3>
-
----
-
-## 👨 About Me
-- 📊 Passionate about **financial analytics and data-driven decision making**
-- 📈 Interested in **time series forecasting and business intelligence**
-- ✨ Aspiring **Data Analyst / Business Analyst / Junior Data Scientist**
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/timothy-maina-43645b1b0/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:timothymaina382@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40"/>
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/+254789353163" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40"/>
-  </a>
+<p align="center">
+Data Analyst | Machine Learning Enthusiast <br/>
+Transforming data into actionable insights and business value
 </p>
 
 ---
 
-## 🧰 My Tool-Kit
+## 👨‍💻 About Me
 
-<p align="left">
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel"></code>
-</p>
+I am a data analyst focused on building **end-to-end data projects** that move from raw data to actionable insights and predictive solutions.
+
+My work combines **data analysis, visualization, and machine learning** to solve real-world business problems and support data-driven decision-making.
+
+- Strong interest in **analytics, machine learning, and business intelligence**
+- Skilled in **Python, SQL, and data visualization tools**
+- Focused on delivering **clear insights and impactful solutions**
+
 ---
 
-## 📂 Featured Projects
-> 🚧 Projects coming soon — focused on financial analytics and forecasting
+## 🧩 Featured Projects
+
+### Superstore Sales Analysis
+An end-to-end analytics project exploring sales performance, profitability, and regional trends.
+
+- Data cleaning and transformation  
+- Exploratory data analysis  
+- Interactive dashboard development  
+- Business insights on revenue and profitability drivers  
+
+🔗 GitHub: https://github.com/timmaina-devhub/superstore-executive-dashboard  
+🌐 Case Study: (Insert portfolio link)
+
+---
+
+### Customer Churn Analysis & Segmentation
+A machine learning project focused on predicting churn and understanding customer behavior.
+
+- Feature engineering and exploratory analysis  
+- Churn prediction modeling  
+- RFM-based customer segmentation  
+- Insights into engagement and retention patterns  
+
+🔗 GitHub: (Insert repo link)  
+🌐 Case Study: (Insert portfolio link)
+
+---
+
+### Fraud Detection System
+A predictive analytics project designed to detect fraudulent transactions.
+
+- Data preprocessing and synthetic data generation  
+- Classification modeling for fraud detection  
+- Model evaluation and optimization  
+- Identification of anomalous transaction patterns  
+
+🔗 GitHub: (Insert repo link)  
+🌐 Case Study: (Insert portfolio link)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Scikit-learn  
+**Visualization:** Power BI, Tableau, Matplotlib  
+**Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📈 Current Focus
+
+I am continuously improving my skills and currently exploring:
+
+- Advanced machine learning techniques  
+- Real-world business case studies  
+- Data engineering fundamentals  
+- End-to-end analytics workflows  
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/timothy-maina-43645b1b0/  
+- Email: timothymaina382@gmail.com  
+- Portfolio: (https://timmaina-devhub.github.io/)
 
 ---
 
 ## 📌 Goal
-To leverage data analytics and machine learning techniques to solve real-world financial problems and support strategic business decisions.
+
+To leverage data analytics and machine learning to solve real-world problems and deliver insights that support strategic decision-making.
