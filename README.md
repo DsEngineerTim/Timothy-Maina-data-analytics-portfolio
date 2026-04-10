@@ -98,7 +98,6 @@ I am currently strengthening my expertise in:
 - 💬 <a href="https://wa.me/254789353163" target="_blank">WhatsApp</a>  
 
 ---
+## 📌 Focus
 
-## 📌 Career Goal
-
-To leverage data analytics and machine learning to solve real-world business problems and contribute to data-driven decision-making in a professional environment.
+I build end-to-end data projects that demonstrate how analytics and machine learning can be applied to solve real-world business problems and support data-driven decision-making.
