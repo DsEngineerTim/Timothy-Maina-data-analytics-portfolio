@@ -61,6 +61,19 @@ A predictive analytics project designed to detect fraudulent transactions.
 
 ---
 
+### Multi-Channel Marketing Attribution & ROI Optimization
+A data-driven analytics project designed to evaluate marketing performance and optimize budget allocation.
+
+- Built a Markov Chain model to quantify channel contribution  
+- Developed a Random Forest model to predict revenue outcomes
+- Engineered campaign and efficiency metrics for improved insights  
+- Analyzed customer journeys to uncover conversion patterns  
+
+🔗 <a href="https://github.com/timmaina-devhub/Multi-Channel-Marketing-Attribution-ROI-Optimization" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#Multi-Channel-Marketing-Attribution-ROI-Optimization" target="_blank">Case Study</a>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:** Python, SQL  
