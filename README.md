@@ -83,7 +83,7 @@ A machine learning project focused on predicting credit risk and supporting fina
 - Developed a dashboard to visualize risk segmentation and trends  
 
 🔗 <a href="https://github.com/timmaina-devhub/Customer-Credit-Risk-Assessment-Model" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#credit-risk" target="_blank">Case Study</a>
+📊 <a href="https://timmaina-devhub.github.io/projects#Customer-Credit-Risk-Assessment" target="_blank">Case Study</a>
 
 ---
 
@@ -96,7 +96,7 @@ A data analytics project focused on improving inventory efficiency and demand pl
 - Designed dashboards to support supply chain decision-making  
 
 🔗 <a href="https://github.com/timmaina-devhub/Inventory-Optimisation" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#inventory-optimization" target="_blank">Case Study</a>
+📊 <a href="https://timmaina-devhub.github.io/projects#Demand-Forecasting-Inventory-Optimization-System" target="_blank">Case Study</a>
 
 ---
 
