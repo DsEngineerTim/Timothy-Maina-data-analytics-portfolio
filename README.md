@@ -87,7 +87,7 @@ A machine learning project focused on predicting churn and understanding custome
 
 ---
 
-### Urban Traffic Congestion Prediction  
+### Delivery-Downtime-Prediction-Route-Optimization  
 A predictive analytics project focused on modeling and forecasting traffic congestion patterns.
 
 - Engineered time-based and environmental traffic features  
@@ -95,8 +95,8 @@ A predictive analytics project focused on modeling and forecasting traffic conge
 - Evaluated models using RMSE and R² metrics  
 - Identified key factors influencing traffic flow  
 
-🔗 <a href="https://github.com/timmaina-devhub/Traffic-Congestion-Prediction" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#traffic-congestion" target="_blank">Case Study</a>
+🔗 <a href="https://github.com/timmaina-devhub/Delivery-Downtime-Prediction-Route-Optimization" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#Delivery-Downtime-Prediction-Route-Optimization" target="_blank">Case Study</a>
 
 ---
 
