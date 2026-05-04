@@ -31,7 +31,7 @@ A machine learning project focused on predicting credit risk and supporting fina
 - Developed a dashboard to visualize risk segmentation and trends  
 
 🔗 <a href="https://github.com/timmaina-devhub/Customer-Credit-Risk-Assessment-Model" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#credit-risk" target="_blank">Case Study</a>
+📊 <a href="https://timmaina-devhub.github.io/projects#Customer-Credit-Risk-Assessment" target="_blank">Case Study</a>
 
 ---
 
