@@ -22,29 +22,29 @@ I combine an **analytical mindset with a business perspective**, ensuring every 
 
 ## 🧩 Featured Projects
 
-### Superstore Sales Analysis  
-An end-to-end analytics project exploring sales performance, profitability, and regional trends.
+### Credit Risk Modeling & Customer Default Prediction  
+A machine learning project focused on predicting credit risk and supporting financial decision-making.
 
-- Cleaned and transformed raw sales data  
-- Performed exploratory data analysis  
-- Built dashboards to communicate insights  
-- Identified key revenue and profitability drivers  
+- Performed data preprocessing and risk-focused feature engineering  
+- Built classification models to estimate probability of default  
+- Optimized evaluation using recall to minimize high-risk misclassification  
+- Developed a dashboard to visualize risk segmentation and trends  
 
-🔗 <a href="https://github.com/timmaina-devhub/superstore-executive-dashboard" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#sales-dashboard" target="_blank">Case Study</a>
+🔗 <a href="https://github.com/timmaina-devhub/Customer-Credit-Risk-Assessment-Model" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#credit-risk" target="_blank">Case Study</a>
 
 ---
 
-### Customer Churn Analysis & Segmentation  
-A machine learning project focused on predicting churn and understanding customer behavior.
+### Supply Chain Analytics & Inventory Optimization  
+A data analytics project focused on improving inventory efficiency and demand planning.
 
-- Conducted feature engineering and analysis  
-- Built and evaluated churn prediction models  
-- Applied RFM-based customer segmentation  
-- Identified key churn indicators  
+- Analyzed inventory and demand patterns across products  
+- Built forecasting models to predict future demand  
+- Identified stock inefficiencies and optimization opportunities  
+- Designed dashboards to support operational decision-making  
 
-🔗 <a href="https://github.com/timmaina-devhub/Customer-Churn-Analysis-and-Segmentation" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#customer-analysis" target="_blank">Case Study</a>
+🔗 <a href="https://github.com/timmaina-devhub/Inventory-Optimisation" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#inventory-optimization" target="_blank">Case Study</a>
 
 ---
 
@@ -52,7 +52,7 @@ A machine learning project focused on predicting churn and understanding custome
 A predictive analytics project designed to detect fraudulent transactions.
 
 - Prepared and processed transaction datasets  
-- Built classification models  
+- Built classification models for fraud detection  
 - Evaluated and improved model performance  
 - Identified anomalous transaction patterns  
 
@@ -74,29 +74,42 @@ A data-driven analytics project designed to evaluate marketing performance and o
 
 ---
 
-### Customer Credit Risk Assessment Model  
-A machine learning project focused on predicting credit risk and supporting financial decision-making.
+### Customer Churn Prediction & Segmentation  
+A machine learning project focused on predicting churn and understanding customer behavior.
 
-- Performed data preprocessing and risk feature engineering  
-- Built classification models to predict default probability  
-- Evaluated models using recall-focused performance metrics  
-- Developed a dashboard to visualize risk segmentation and trends  
+- Conducted feature engineering and exploratory analysis  
+- Built and evaluated churn prediction models  
+- Applied RFM-based customer segmentation  
+- Identified key drivers of customer churn  
 
-🔗 <a href="https://github.com/timmaina-devhub/Customer-Credit-Risk-Assessment-Model" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#Customer-Credit-Risk-Assessment" target="_blank">Case Study</a>
+🔗 <a href="https://github.com/timmaina-devhub/Customer-Churn-Analysis-and-Segmentation" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#customer-analysis" target="_blank">Case Study</a>
 
 ---
 
-### Supply Chain Analytics & Inventory Optimization  
-A data analytics project focused on improving inventory efficiency and demand planning.
+### Urban Traffic Congestion Prediction  
+A predictive analytics project focused on modeling and forecasting traffic congestion patterns.
 
-- Analyzed inventory and demand patterns across products  
-- Built forecasting models to predict future demand  
-- Identified stock inefficiencies and optimization opportunities  
-- Designed dashboards to support supply chain decision-making  
+- Engineered time-based and environmental traffic features  
+- Built regression models to predict congestion levels  
+- Evaluated models using RMSE and R² metrics  
+- Identified key factors influencing traffic flow  
 
-🔗 <a href="https://github.com/timmaina-devhub/Supply-Chain-Analytics-Inventory-Optimization" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#Demand-Forecasting-Inventory-Optimization-System" target="_blank">Case Study</a>
+🔗 <a href="https://github.com/timmaina-devhub/Traffic-Congestion-Prediction" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#traffic-congestion" target="_blank">Case Study</a>
+
+---
+
+### Sales Performance Analysis Dashboard  
+An end-to-end analytics project exploring sales performance, profitability, and regional trends.
+
+- Cleaned and transformed raw sales data  
+- Performed exploratory data analysis  
+- Built dashboards to communicate insights  
+- Identified key revenue and profitability drivers  
+
+🔗 <a href="https://github.com/timmaina-devhub/superstore-executive-dashboard" target="_blank">View Project</a>  
+📊 <a href="https://timmaina-devhub.github.io/projects#sales-dashboard" target="_blank">Case Study</a>
 
 ---
 
