@@ -44,7 +44,7 @@ A data analytics project focused on improving inventory efficiency and demand pl
 - Designed dashboards to support operational decision-making  
 
 🔗 <a href="https://github.com/timmaina-devhub/Supply-Chain-Analytics-Inventory-Optimization" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#inventory-optimization" target="_blank">Case Study</a>
+📊 <a href="https://timmaina-devhub.github.io/projects#Demand-Forecasting-Inventory-Optimization-System" target="_blank">Case Study</a>
 
 ---
 
