@@ -96,7 +96,7 @@ A predictive analytics project focused on modeling and forecasting traffic conge
 - Identified key factors influencing traffic flow  
 
 🔗 <a href="https://github.com/timmaina-devhub/Delivery-Downtime-Prediction-Route-Optimization" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#Delivery-Downtime-Prediction-Route-Optimization" target="_blank">Case Study</a>
+📊 <a href="https://timmaina-devhub.github.io/projects#Delivery-Downtime-Route-Optimization" target="_blank">Case Study</a>
 
 ---
 
