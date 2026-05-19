@@ -1,7 +1,7 @@
 <h1 align="center">Timothy Maina</h1>
 
 <p align="center">
-Data Analyst & Data Scientist <br/>
+Applied Data Scientist <br/>
 Building end-to-end data solutions that drive insight and decision-making
 </p>
 
