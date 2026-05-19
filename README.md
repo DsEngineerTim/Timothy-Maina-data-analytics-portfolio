@@ -9,7 +9,7 @@ Building end-to-end data solutions that drive insight and decision-making
 
 ## 👨‍💻 About Me
 
-I am a data analyst focused on transforming raw data into **meaningful insights and predictive solutions**.  
+I am an applied data scientist focused on transforming raw data into **meaningful insights and predictive solutions**.  
 My work centers on building **end-to-end projects**—from data cleaning and exploration to modeling and visualization.
 
 I combine an **analytical mindset with a business perspective**, ensuring every project delivers clear and actionable outcomes.
